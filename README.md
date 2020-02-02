@@ -20,4 +20,4 @@ To run a jupyter notebook one should install a nesessary python packages, i.e.:
 > pip install -r requirements.txt
 ```
 
-In order to view an html version online please follow [Dropbox link](https://www.dropbox.com/s/fnumk7anx4zgg7j/psa_cashflow_projection.html?dl=0). However, some interactive visuals works only when the 'html' file is downloaded and opened locally.
+To directly download an html version please follow this [Dropbox link](https://www.dropbox.com/s/fnumk7anx4zgg7j/psa_cashflow_projection.html?dl=1).
