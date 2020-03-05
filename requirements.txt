@@ -1,7 +1,9 @@
 #python==3.6.9
 numpy
+numpy_financial
 scipy
 pandas
 matplotlib
+bokeh
 holoviews
 jupyter
