@@ -15,7 +15,7 @@ jupyter notebook
 requirements.txt
 </pre>
 
-To run a jupyter notebook one should install the nesessary python packages, i.e.:
+To run a jupyter notebook one should install the necessary python packages, i.e.:
 
 ``` bash
 > conda create --name ENV_NAME python=3.6.9
