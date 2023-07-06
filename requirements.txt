@@ -1,7 +1,7 @@
 #python>=3.6.9
 numpy==1.18.1
 numpy-financial==1.0.0
-scipy==1.4.1
+scipy==1.10.0
 pandas==1.0.1
 matplotlib==3.2.0
 bokeh==1.1.0
